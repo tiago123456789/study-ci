@@ -18,8 +18,3 @@ jobs:
     
     - name: Run tests the application
       run: go test
-
-    - name: Say hi
-      run: |
-        echo "Hi"
-    
