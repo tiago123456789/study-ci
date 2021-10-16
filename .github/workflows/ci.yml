@@ -17,5 +17,9 @@ jobs:
         go-version: 1.16
     
     - name: Run tests the application
-      run: go test ./...
+      run: go test
+
+    - name: Say hi
+      run: |
+        echo "Hi"
     
