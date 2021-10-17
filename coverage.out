@@ -1,0 +1,5 @@
+mode: set
+study-ci/calc/sum.go:3.28,5.2 1 1
+study-ci/calc/sum.go:7.28,9.2 1 1
+study-ci/calc/sum.go:11.33,13.2 1 1
+study-ci/calc/sum.go:15.31,17.2 1 1
