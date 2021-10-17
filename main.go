@@ -10,6 +10,10 @@ func sub(a int, b int) int {
 	return a - b
 }
 
+func sub(a int, b int) int {
+	return a - b
+}
+
 func multiple(a int, b int) int {
 	return a * b
 }
