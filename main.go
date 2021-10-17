@@ -1,23 +1,10 @@
 package main
 
-import "fmt"
-
-func sum(a int, b int) int {
-	return a + b
-}
-
-func sub(a int, b int) int {
-	return a - b
-}
-
-func multiple(a int, b int) int {
-	return a * b
-}
-
-func divise(a int, b int) int {
-	return a / b
-}
+import (
+	"fmt"
+	"study-ci/calc"
+)
 
 func main() {
-	fmt.Printf("THe value sum method => %d \n", sum(10, 10))
+	fmt.Printf("THe value sum method => %d \n", calc.Sum(10, 10))
 }
