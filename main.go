@@ -6,10 +6,6 @@ func sum(a int, b int) int {
 	return a + b
 }
 
-func sub2(a int, b int) int {
-	return a - b
-}
-
 func sub(a int, b int) int {
 	return a - b
 }
